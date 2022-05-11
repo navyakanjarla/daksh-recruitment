@@ -1,0 +1,73 @@
+/* Your CSS goes here */
+
+/* Example */
+img {
+  width: 30rem;
+  padding-left: 700px;
+}
+body{
+  background-color: #AFEEEE;
+}
+h1
+{
+  font-family: 'Satisfy';
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight:bolder;
+  text-align: center;
+}
+.nav-link
+{
+  font-family: 'Ubuntu';
+  font-size: 1.5rem;
+  font-weight: bold;
+padding-right: 100px;
+}
+#a
+{
+  font-size: 1.75rem;
+  text-align: center;
+}
+.quote
+{
+  font-size: 1.75rem;
+  text-align: center;
+  font-weight: bold;
+}
+.contact{
+  text-align: center;
+  width:30rem;
+  margin: 5% 30%;
+  font-size:1.5rem;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.foot{
+  text-align: center;
+  font-size:1.25rem;
+}
+.icon1
+{
+  width:2rem;
+  padding-left: 500px;
+}
+.icon2
+{
+  width:2rem;
+  padding-left: 100px;
+}
+hr{
+  border-color:grey;
+  border-width: 7px;
+  border-style:none;
+ border-top-style: dotted;
+  width: 10%;
+}
+.btn{
+  background-color:black;
+  color: white;
+}
+.btn:hover
+{
+  background-color: grey;
+}
